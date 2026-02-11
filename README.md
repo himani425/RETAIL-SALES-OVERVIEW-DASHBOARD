@@ -1,4 +1,3 @@
-# RETAIL-SALES-OVERVIEW-DASHBOARD
 # 🛒 Retail Sales Overview Dashboard (Excel Project)
 
 ## 📊 Project Overview
@@ -44,6 +43,8 @@ The dashboard helps analyze business performance and supports data-driven decisi
 ---
 
 ## 📷 Dashboard Preview
+
+https://github.com/himani425/RETAIL-SALES-OVERVIEW-DASHBOARD/blob/main/dashboard%20Screenshot.
 
 
 ## 🎯 Business Use Case
