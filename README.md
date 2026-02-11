@@ -60,6 +60,8 @@ to monitor sales performance and identify high-performing regions and categories
 
 ## 📁 File Included
 
+https://github.com/himani425/RETAIL-SALES-OVERVIEW-DASHBOARD/blob/main/sales%20dashboard%20excel.
+
 
 ## 🚀 Author
 HIMANI 
